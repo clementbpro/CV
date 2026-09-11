@@ -1,0 +1,9 @@
+.image {
+    float: right;
+}
+
+table {
+    border: 1px solid;
+    border-style: dotted;
+    border-radius: 5px;
+}
