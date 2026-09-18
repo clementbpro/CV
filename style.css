@@ -27,3 +27,15 @@ table {
 table tr:nth-child(even) {
     background-color: #f2f2f2; /* Gris clair */
 }
+a:link {
+  color: rgb(58, 0, 117);
+}
+a:hover {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
