@@ -7,3 +7,20 @@ table {
     border-style: dotted;
     border-radius: 5px;
 }
+body {
+  background-color: lightblue;
+}
+
+.liste {
+    text-decoration: none;
+}
+img {
+  border: 5px solid #3498db;    
+}
+
+table {
+    margin-bottom: 30px;
+}
+table {
+  background-color: #3498db;
+}   
